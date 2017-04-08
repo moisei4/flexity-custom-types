@@ -4,42 +4,6 @@
 
 
 
-
-#flexity_footer:after {
-	clear: both;
-	display: block;
-	content: '';
-}
-#flexity_footer_link_1,
-#flexity_footer_link_2,
-#flexity_footer_link_3,
-#flexity_footer_link_4,
-#flexity_footer_link_5,
-#flexity_footer_link_6,
-#flexity_footer_link_7,
-#flexity_footer_link_8,
-#flexity_footer_link_9,
-#flexity_footer_link_10 {
-	float: left;
-	clear: left;
-	width: 50%;
-}
-#flexity_footer_icon_1,
-#flexity_footer_icon_2,
-#flexity_footer_icon_3,
-#flexity_footer_icon_4,
-#flexity_footer_icon_5,
-#flexity_footer_icon_6,
-#flexity_footer_icon_7,
-#flexity_footer_icon_8,
-#flexity_footer_icon_9,
-#flexity_footer_icon_10 {
-	float: left;
-	width: 50%;
-}
-
-
-
 .vp-wrap .vp-menus li>a:focus {
 	outline: none;
 	box-shadow: none;
